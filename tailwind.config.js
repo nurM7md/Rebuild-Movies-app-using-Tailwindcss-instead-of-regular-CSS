@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        home: "url('img/home3.jpg')",
+        home: "url('/img/home3.jpg')",
       },
       spacing: {
         30: "2rem", // 30px = 7.5rem
