@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        home: "url('/img/home3.jpg')",
+        home: "url('https://nurm7md.github.io/Rebuild-Movies-app-using-Tailwindcss-instead-of-regular-CSS./images/photo.jpg')",
       },
       spacing: {
         '30': '2rem', // 30px = 7.5rem
